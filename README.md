@@ -1,6 +1,15 @@
 # SMBMap-Automation
 Simple Python Script to automate SMB mapping from CIDR
 
+ _____ _____ _____    _____     _                 _   _         
+|   __|     | __  |  |  _  |_ _| |_ ___ _____ ___| |_|_|___ ___ 
+|__   | | | | __ -|  |     | | |  _| . |     | .'|  _| | . |   |
+|_____|_|_|_|_____|  |__|__|___|_| |___|_|_|_|__,|_| |_|___|_|_|
+                                                                
+
+				Automation by 0xZ3r0X
+
+
 # installation
 
 ```
