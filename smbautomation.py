@@ -1,9 +1,7 @@
 #/usr/bin/python3.9
 
-import os
 import ipaddress
 from subprocess import Popen, PIPE, STDOUT
-#from libnmap.parser import NmapParser
 
 class bcolors:
     HEADER = '\033[95m'
